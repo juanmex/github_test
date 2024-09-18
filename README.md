@@ -4,7 +4,7 @@
 
 Crear un branch
 ```
-git checkout -n NOMBRE_BRANCH
+git checkout -b NOMBRE_BRANCH
 ```
 
 # Mandar cambios a Git
